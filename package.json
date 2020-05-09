@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "sync bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "OkBoomer#3424 or MrCoolGuy2008WoW",
+  "license": "ISC"
+}
